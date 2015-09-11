@@ -1,5 +1,9 @@
 chatting_item_from.xml
+<<<<<<< HEAD
 <?xml version="2.0" encoding="UTF-8"?>
+=======
+<?xml version="3.0" encoding="UTF-8"?>
+>>>>>>> c25e828351750d1b2564267c0241937fb5e130fe
 <LinearLayout
 
 我是样呀明
