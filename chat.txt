@@ -8,15 +8,7 @@ chatting_item_from.xml
  android:layout_height="wrap_content"
    xmlns:android="http://schemas.android.com/apk/res/android">
     <TextView
-     android:id="@+id/chatting_time_tv"
-     style="@style/ChattingUISplit" />
-   
-      <TextView
-     android:id="@+id/chatting_content_itv"
-     android:
-     android:background="@drawable/chatfrom_bg"
-     style="@style/ChattingUIText" />
-</LinearLayout>
+
 
 
 
