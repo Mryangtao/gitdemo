@@ -6,8 +6,7 @@ chatting_item_from.xml
 
 
 
-
-
+我是张志雄
 chatting_item_to.xml:
  
 <?xml version="1.0" encoding="UTF-8"?>
