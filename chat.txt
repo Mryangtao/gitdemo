@@ -2,8 +2,7 @@ chatting_item_from.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <LinearLayout
 
-
-
+我是样呀明
 
 
 
