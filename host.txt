@@ -8,14 +8,6 @@
 #
 #  更新地址：http://laod.cn/hosts/2015-google-hosts.html
 #  
-#  部署hosts文件前请注意文本编码和换行符格式。
-#
-#######################################################################
-#+MESSAGE_END
-127.0.0.1	localhost
-255.255.255.255	broadcasthost
-::1		localhost
-fe80::1%lo0	localhost
 
 # Modify hosts start
 
